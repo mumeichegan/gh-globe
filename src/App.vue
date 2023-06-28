@@ -100,6 +100,7 @@ onMounted(function() {
 .card-header {
     font-size: 16px;
     line-height: 1.5;
+    color: #ddd;
 }
 .card-body {
     font-size: 12px;
